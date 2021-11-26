@@ -8,4 +8,4 @@ A simple template to start a project with HTML and CSS only, includes linters se
 
 - GitHub: [kensayo](https://github.com/kensayo)
 - Twitter: [@kensayo](https://twitter.com/kensayo)
-- LinkedIn: [LinkedIn](
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kennyortega/)
